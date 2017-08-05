@@ -1,4 +1,4 @@
-class Operations():
+class Operations:
   
   def __init__(self):
     #SET OF OPERATIONS (set(args),get(args)...)
